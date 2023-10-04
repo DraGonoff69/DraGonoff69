@@ -10,8 +10,8 @@
 
 
 ## Coding Profiles
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/mishraayuujm5/practice)
 
-[![GeeksforGeeks](https://auth.geeksforgeeks.org/user/mishraayuujm5/practice)
 
 ## Skills
 
