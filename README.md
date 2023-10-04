@@ -1,8 +1,8 @@
 <img width="100%" height = "100%" src="./banner.png" alt="Hi, I'm Ayush Mishra" />
 
 #### - I’m currently learning **backend devlopment**
-#### - All of my projects are available at [https://github.com/DeepakS-Github/](https://github.com/DraGonoff69)
-#### - Know about my experiences (Resume) [https://drive.google.com/file/d/1Bk1oQBn9jVnWqa-SDO7kbEp_DsmvuRN7/view?usp=sharing](https://drive.google.com/file/d/1ui30DQ1rObJQ0v0BYOEbuivuCPhGiHYl/view?usp=drive_link)
+#### - All of my projects are available at [https://github.com/DraGonoff69](https://github.com/DraGonoff69)
+#### - Know about my experiences (Resume) [https://drive.google.com/file/d/1ui30DQ1rObJQ0v0BYOEbuivuCPhGiHYl/view?usp=drive_link](https://drive.google.com/file/d/1ui30DQ1rObJQ0v0BYOEbuivuCPhGiHYl/view?usp=drive_link)
 #### - **I'm really skilled at playing video games and I love exploring digital worlds!**
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:its.mishraayush@gmail.com)
