@@ -1,4 +1,4 @@
-<img width="100%" height = "100%" src="./banner/Github Banner.png" alt="Hi, I'm Ayush Mishra" />
+<img width="100%" height = "100%" src="./banner/banner.png" alt="Hi, I'm Ayush Mishra" />
 
 #### - I’m currently learning **backend devlopment**
 #### - All of my projects are available at [https://github.com/DeepakS-Github/](https://github.com/DraGonoff69)
